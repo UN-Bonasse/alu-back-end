@@ -23,3 +23,4 @@ if __name__ == "__main__":
 
     for task in done_tasks:
         print("\t {}".format(task.get("title")))
+
